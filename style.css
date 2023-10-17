@@ -2,7 +2,7 @@
     /* background-repeat: no-repeat;
     background-size: cover;
     background-image: url(static/pb_courts.jpg); */
-    position: relative;
+
 }
 
 /* .hover {
@@ -10,11 +10,11 @@
     transition-duration: 1s;
 } */
 
-.hover:hover {
+/* .hover:hover {
     opacity: 0;
-}
+} */
 
-.image1 > img {
+.image1 img {
     position: absolute;
     left: 0;
     transition: opacity 1s ease-in-out;  
