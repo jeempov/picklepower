@@ -1,0 +1,15 @@
+.image1 {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hover {
+    opacity: 1;
+    transition-duration: 1s;
+}
+
+.hover:hover {
+    opacity: 0;
+    background-image: url(static/pb_courts.jpg)
+}
+
