@@ -11,3 +11,8 @@ img.top:hover {
 .text-center {
     text-align: center;
 }
+
+.banner {
+    width: 25%;
+    height: 50%;
+}
